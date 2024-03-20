@@ -1,0 +1,16 @@
+.card
+{
+    position: relative;
+    top:100px;
+}
+a,a:hover
+{
+    text-decoration: none;
+    color: white;
+}
+  body
+{
+    background: url('reviewback.jpg') no-repeat;
+   
+    
+}

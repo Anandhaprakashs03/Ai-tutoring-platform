@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .row
+      {
+          border: 2px solid black;
+      }
+  .ntf
+      {
+          color:red;
+          position: absolute;
+          top:0px;
+          
+      }
+  .msg
+      {
+          color:blue;
+      }
+  .cont
+      {
+          width:100%;
+      }
+  .cont-head
+      {
+          width:100%;
+           font-weight: bolder;
+          
+      }
+  td
+      {
+          width:15%;
+          font-size: 18px;
+          text-transform: capitalize;
+          padding-top: 8px;
+          
+      }
+  .badge {
+    position: absolute;
+    top: 10px;
+    left:20px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+  }
+  .dwnldbtn {
+      background-color: DodgerBlue;
+      border: none;
+      color: white;
+      padding: 12px 30px;
+      cursor: pointer;
+      font-size: 20px;
+      border-radius: 15px;
+  }
+  .dwnldbtn:hover {
+      background-color: RoyalBlue;
+  }
+      a,a:hover
+      {
+          color:white;
+          text-decoration: none;
+      }
